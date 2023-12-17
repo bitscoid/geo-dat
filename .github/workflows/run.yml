@@ -320,7 +320,7 @@ jobs:
           script: |
             const result = await github.rest.actions.createWorkflowDispatch({
               owner: 'bitscoid',
-              repo: 'malikshi/geo-db',
+              repo: 'geo-db',
               workflow_id: 'release.yaml',
               ref: 'master'
             })
