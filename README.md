@@ -22,7 +22,7 @@ Generate custom geosite and geoip based on [Loyalsoldier](https://github.com/Loy
   - `geosite:rule-malicious`
   - `geosite:urltest`
 
-> More details for addtional [list](https://github.com/malikshi/v2ray-rules-dat/blob/b3f67d1c2cc83bb2a84ea117b1e0caa340f7a130/.github/workflows/run.yml#L20)
+> More details for addtional [list](https://github.com/bitscoid/geo-dat/blob/master/.github/workflows/run.yml#L20)
 
 
 ## GEOIP.DAT
