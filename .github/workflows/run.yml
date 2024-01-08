@@ -278,7 +278,7 @@ jobs:
           sha256sum geoip.db > geoip.db.sha256sum
 
       - name: Delete Old Tag & Release
-        uses: dev-drprasad/delete-tag-and-release@v1.0
+        uses: dev-drprasad/delete-older-releases@v0.2.1
         with:
           repo: bitscoid/geo-dat
           keep_latest: 0
